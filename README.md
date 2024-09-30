@@ -1,8 +1,8 @@
 [![Health Check](../../actions/workflows/health-check.yml/badge.svg)](../../actions/workflows/health-check.yml)
 
-## Status Page
+# Status Page
 
-# Use the [original repository](https://github.com/statsig-io/statuspage/) and not this fork!
+## Use the [original repository](https://github.com/statsig-io/statuspage/) and not this fork!
 
 This fork has been modified for personal use.
 
